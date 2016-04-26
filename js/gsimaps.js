@@ -28,6 +28,7 @@ CONFIG.layers = [
 	,'./layers_txt/layers3.txt'
 	,'./layers_txt/layers4.txt'
 	,'./layers_txt/layers5.txt'
+	,'./layers_txt/layers6.txt'
     ,'./layers_txt/layers_experimental.txt'
 ];
 
